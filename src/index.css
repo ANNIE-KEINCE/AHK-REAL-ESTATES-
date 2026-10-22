@@ -1,0 +1,66 @@
+@import "tailwindcss";
+
+@theme {
+	--color-white: #EBEBE6;
+	--color-black: #29241D;
+
+	--color-blue-50: #EBEBE6;
+	--color-blue-100: #EBEBE6;
+	--color-blue-200: #E2AF1D;
+	--color-blue-300: #E2AF1D;
+	--color-blue-400: #E2AF1D;
+	--color-blue-500: #AE720C;
+	--color-blue-600: #824807;
+	--color-blue-700: #824807;
+	--color-blue-800: #29241D;
+	--color-blue-900: #29241D;
+	--color-blue-950: #29241D;
+
+	--color-slate-50: #EBEBE6;
+	--color-slate-100: #EBEBE6;
+	--color-slate-200: #EBEBE6;
+	--color-slate-300: #E2AF1D;
+	--color-slate-400: #824807;
+	--color-slate-500: #824807;
+	--color-slate-600: #824807;
+	--color-slate-700: #824807;
+	--color-slate-800: #29241D;
+	--color-slate-900: #29241D;
+	--color-slate-950: #29241D;
+
+	--color-gray-50: #EBEBE6;
+	--color-gray-100: #EBEBE6;
+	--color-gray-200: #EBEBE6;
+	--color-gray-300: #E2AF1D;
+	--color-gray-400: #AE720C;
+	--color-gray-500: #824807;
+	--color-gray-600: #824807;
+	--color-gray-700: #824807;
+	--color-gray-800: #29241D;
+	--color-gray-900: #29241D;
+	--color-gray-950: #29241D;
+
+	--color-green-50: #EBEBE6;
+	--color-green-100: #EBEBE6;
+	--color-green-200: #EBEBE6;
+	--color-green-300: #E2AF1D;
+	--color-green-400: #E2AF1D;
+	--color-green-500: #824807;
+	--color-green-600: #824807;
+	--color-green-700: #29241D;
+	--color-green-800: #29241D;
+	--color-green-900: #29241D;
+	--color-green-950: #29241D;
+
+	--color-red-50: #EBEBE6;
+	--color-red-100: #EBEBE6;
+	--color-red-200: #EBEBE6;
+	--color-red-300: #E2AF1D;
+	--color-red-400: #AE720C;
+	--color-red-500: #824807;
+	--color-red-600: #824807;
+	--color-red-700: #29241D;
+	--color-red-800: #29241D;
+	--color-red-900: #29241D;
+	--color-red-950: #29241D;
+}
